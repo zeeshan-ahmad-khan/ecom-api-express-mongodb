@@ -2,6 +2,10 @@
 
 API for getting all details of ecommerce store
 
+### Base URL
+
+https://mystore-api.onrender.com/
+
 ### Base Endpoint
 
 ```sh

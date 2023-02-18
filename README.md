@@ -4,7 +4,7 @@ API for getting all details of ecommerce store
 
 ### Base URL
 
-https://mystore-api.onrender.com/
+[https://mystore-api.onrender.com/](https://mystore-api.onrender.com/api/v1/products?currentPage=1&productsPerPage=2)
 
 ### Base Endpoint
 
